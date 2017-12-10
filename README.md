@@ -1,4 +1,4 @@
-# KITTEN
+# Mi página
 
 * **Track:** _Common Core_
 * **Curso:** _Creando tu primera red social_
